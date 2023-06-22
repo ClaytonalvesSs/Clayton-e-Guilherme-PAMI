@@ -13,6 +13,18 @@
         android:theme="@style/Theme.App_energia_renovavel"
         tools:targetApi="31">
         <activity
+            android:name=".tela_oceanica"
+            android:exported="false" />
+        <activity
+            android:name=".tela_hidreletrica"
+            android:exported="false" />
+        <activity
+            android:name=".tela_eolica"
+            android:exported="false" />
+        <activity
+            android:name=".tela_solar"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
