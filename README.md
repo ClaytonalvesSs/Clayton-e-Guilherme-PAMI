@@ -19,7 +19,7 @@ Assim que você escolher a energia, você será direcionado a outra activity, on
 Atualizações:
 Mudança na dupla, a partir de agora, as pessoas que darão continuidade ao app será Clayton Alves e Evelyn Karina.
 
-Após uma breve dicussão, pensamos em adicionar tais elementos ao nosso aplicativo.
+Após uma breve discussão, pensamos em adicionar tais elementos ao nosso aplicativo.
 
 Começando por pequenos ajustes no layout (por questão estética).
 
