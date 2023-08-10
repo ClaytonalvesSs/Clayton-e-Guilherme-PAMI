@@ -2,6 +2,7 @@
 ## Repositório com arquivo do app sobre energia renovável e pokémon
 
 Nova dupla: Clayton Alves e Evelyn Karina
+
 Feito por: Clayton Alves e Guilherme Gasperini
 
 O app desenvolvido cujo seu tema é sobre energia renovável mesclado com o tema de pokemon.
@@ -28,3 +29,24 @@ Ao clicar no app, iremos fazer uma "intro" de 3 segundos mais ou menos, exibindo
 Após essa intro, iria aparecer uma activity, com um campo de login, que seria Nome de usuário e Senha que iremos utilizar duas TextViews para indicar ao usuário onde inserir os dados e duas EditTexts que são campos para o usuário inserir o nome de usuário e senha. Ainda nesta activity iremos colocar um Button enviar e ao clicar ele te  redirecionaria para a activity das 4 energias renováveis, aparecendo uma mensagem escrita "login efetudo com sucesso!".
 
 Na activity das energias, vamos adicionar um button que vai chamar um menu lateral, no qual ele exibirá algumas opções, como por exemplo, "Sair" que ao clicar,  vai sair do usuário cadastrado, redirecionando de volta para a tela de login e o "Suporte" no qual iria redirecionar para uma nova activity com algumas dúvidas frequentes já respondidas (conjunto de TextViews) sobre energia renovável.
+
+Atualização:
+Adicionamos a imagem do Diagrama de Classes e sua explicação logo abaixo:
+
+![image](https://github.com/ClaytonalvesSs/Clayton-e-Guilherme-PAMI/assets/128047894/03b8c823-3109-448d-8dcf-598121899b4d)
+
+Contexto da imagem:
+
+Temos as classes Login, TpEnergias e Suporte. 
+
+A classe login, seria o login do usuário no aplicativo e sem ele não seria possível o usuário entrar nas outras activitys.  
+
+A classe TpEnergias, seria as informações colocadas no aplicativo sobre o tema Energias Renováveis, ou seja, o nome da energia, a imagem e a descrição. 
+
+A classe Suporte, representaria a activity suporte que será inserida com o intuito de deixar perguntas frequentes sobre Energias Renováveis e junto as perguntas, as respostas. 
+
+Ou seja, na classe Login podemos cadastrar e atualizar os dados do usuário. 
+
+Na classe TpEnergias iriamos cadastrar, atualizar e consultar as informações. 
+
+E na classe Suporte seria uma forma de consulta para o usuário.
