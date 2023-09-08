@@ -36,6 +36,9 @@
         <activity
             android:name=".MainActivity"
             android:exported="true"/>
+        <activity
+            android:name=".tela_login"
+            android:exported="true"/>
     </application>
 
 </manifest>
