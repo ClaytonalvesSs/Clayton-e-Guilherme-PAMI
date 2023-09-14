@@ -75,6 +75,7 @@
 
     <TextView
         android:id="@+id/txtproseolica"
+<<<<<<< HEAD
         android:layout_width="379dp"
         android:layout_height="59dp"
         android:text="@string/pr_s_renov_vel_n_o_emite_gases_poluentes_diminui_a_emiss_o_de_gases_do_efeito_estufa"
@@ -99,6 +100,33 @@
         app:layout_constraintHorizontal_bias="0.357"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtdesceolica" />
+=======
+        android:layout_width="381dp"
+        android:layout_height="36dp"
+        android:text="@string/pr_s_renov_vel_n_o_emite_gases_poluentes_diminui_a_emiss_o_de_gases_do_efeito_estufa"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@+id/imgveolica2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.333"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtdesceolica"
+        app:layout_constraintVertical_bias="0.11" />
+
+    <TextView
+        android:id="@+id/txtconeolica"
+        android:layout_width="383dp"
+        android:layout_height="54dp"
+        android:text="@string/contras_nem_sempre_o_vento_sopra_quando_necess_rio_impacto_visual_gera_o_de_ru_do_constante"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@+id/imgveolica2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.357"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtproseolica"
+        app:layout_constraintVertical_bias="0.267" />
+>>>>>>> 0f096578056a0d32d406808e852d333ba8e0ea04
 
     <TextView
         android:id="@+id/txtrankeolica"
@@ -109,10 +137,17 @@
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+<<<<<<< HEAD
         app:layout_constraintHorizontal_bias="0.086"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtconeolica"
         app:layout_constraintVertical_bias="0.396" />
+=======
+        app:layout_constraintHorizontal_bias="0.117"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtconeolica"
+        app:layout_constraintVertical_bias="0.405" />
+>>>>>>> 0f096578056a0d32d406808e852d333ba8e0ea04
 
     <ImageView
         android:id="@+id/imgvrankeolica"

@@ -13,6 +13,7 @@
         android:theme="@style/Theme.App_energia_renovavel"
         tools:targetApi="31">
         <activity
+<<<<<<< HEAD
             android:name=".tela_suporte"
             android:exported="false" />
         <activity
@@ -23,6 +24,15 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+=======
+            android:name=".tela_intro"
+            android:exported="true">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+>>>>>>> 0f096578056a0d32d406808e852d333ba8e0ea04
         </activity>
         <activity
             android:name=".tela_oceanica"
@@ -38,10 +48,17 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity"
+<<<<<<< HEAD
             android:exported="true" />
         <activity
             android:name=".tela_login"
             android:exported="true" />
+=======
+            android:exported="true"/>
+        <activity
+            android:name=".tela_login"
+            android:exported="true"/>
+>>>>>>> 0f096578056a0d32d406808e852d333ba8e0ea04
     </application>
 
 </manifest>

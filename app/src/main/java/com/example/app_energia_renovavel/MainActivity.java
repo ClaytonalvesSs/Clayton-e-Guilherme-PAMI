@@ -33,9 +33,12 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, tela_oceanica.class);
         startActivity(intent);
     }
+<<<<<<< HEAD
 
     public void janelasuporte(View view){
         Intent intent = new Intent(this, tela_suporte.class);
         startActivity(intent);
     }
+=======
+>>>>>>> 0f096578056a0d32d406808e852d333ba8e0ea04
 }

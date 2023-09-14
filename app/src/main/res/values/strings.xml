@@ -61,6 +61,7 @@
     <string name="txt_senha">Senha:</string>
     <string name="digite_sua_senha">Digite sua senha</string>
     <string name="btn_enviar">Enviar</string>
+<<<<<<< HEAD
     <string name="botao_de_suporte">Botao_de_suporte</string>
     <string name="veja">VEJA</string>
     <string name="veja_2">VEJA</string>
@@ -74,4 +75,6 @@
     <string name="sobre_energia_hidreletrica">Sobre Energia Hidreletrica:</string>
     <string name="sobre_energia_oceanica">Sobre Energia Oceanica:</string>
     <string name="sobre_energias_renovaveis">Sobre Energias Renovaveis:</string>
+=======
+>>>>>>> 0f096578056a0d32d406808e852d333ba8e0ea04
 </resources>
