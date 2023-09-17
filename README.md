@@ -32,7 +32,7 @@ Após essa intro, iria aparecer uma activity, com um campo de login, que seria N
 Na activity das energias, vamos adicionar um button que vai chamar um menu lateral, no qual ele exibirá algumas opções, como por exemplo, "Sair" que ao clicar,  vai sair do usuário cadastrado, redirecionando de volta para a tela de login e o "Suporte" no qual iria redirecionar para uma nova activity com algumas dúvidas frequentes já respondidas (conjunto de TextViews) sobre energia renovável.
 
 # Ideia que vamos por no lugar do menu
-Adicionar um Button que levará a activity suporte, no qual terá 6 buttons, um que fará uma busca sobre "O que são Pokemons?" e os outros 5 que levarão a 5 sites (cada um falando sobre um tipo de energia), em cada activity das energias, terá um button levando a uma localização, exemplo, na activity da energia solar, terá um button que mostrará uma localização que tem esse tipo de energia.
+Na Main, iremos adicionar um button que fara uma busca no navegador de sua preferencia sobre "O que são Pokemosns?" para aquelas pessoas que não sabem oq são e possam entender um pouco mais sobre o tema do desenho escolhido pra mesclar com energias renováveis. Também iremos adicionar um Button na Main que levará a activity suporte, no qual terá 5 buttons, que levarão a 5 sites (cada um falando sobre um tipo de energia), em cada activity das energias, terá um button levando a uma localização, exemplo, na activity da energia solar, terá um button que mostrará uma localização que tem esse tipo de energia (nessa ideia, possui 3 tipos de Intent Implicita, de busca, de localização e de abrir site na web).
 
 Atualização:
 Adicionamos a imagem do Diagrama de Classes e sua explicação logo abaixo:
@@ -78,5 +78,11 @@ Minha dupla Evelyn karina disse que até tinha conseguido resolver em uma tela, 
 
 https://github.com/ClaytonalvesSs/Clayton-e-Guilherme-PAMI/assets/128047894/7dec654b-c017-4484-a56a-78063323789e
 
+# Conclusão e Alternativa que fizemos
 Literalmente não da para programar, por conta de que os codigos estão todos alterados, até a prévia das activitys não estão sendo exibidas, neste exato momento, estou refazendo em outro repositório para ter o app totalmente funconal.
+
+# OBSERVAÇÃO
+Terminamos o aplicativo no Domingo(!7/09), está funcional, porém em outro repositorio, caso queira visitá-lo, aqui está o link: https://github.com/ClaytonalvesSs/App_renovavel.git
+
+# VIDEO DO APP FUNCIONANDO (está no repositório do link acima)
 
