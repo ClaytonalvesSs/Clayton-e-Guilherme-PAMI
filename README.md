@@ -82,7 +82,8 @@ https://github.com/ClaytonalvesSs/Clayton-e-Guilherme-PAMI/assets/128047894/7dec
 Literalmente não da para programar, por conta de que os codigos estão todos alterados, até a prévia das activitys não estão sendo exibidas, neste exato momento, estou refazendo em outro repositório para ter o app totalmente funconal.
 
 # OBSERVAÇÃO
-Terminamos o aplicativo no Domingo(!7/09), está funcional, porém em outro repositorio, caso queira visitá-lo, aqui está o link: https://github.com/ClaytonalvesSs/App_renovavel.git
+Terminamos o aplicativo no Domingo(17/09), está funcional, porém em outro repositorio, caso queira visitá-lo, aqui está o link: https://github.com/ClaytonalvesSs/App_renovavel.git
 
-# VIDEO DO APP FUNCIONANDO (está no repositório do link acima)
+# VIDEO DO APP FUNCIONANDO (também tem no link do repositorio acima)
 
+https://youtu.be/fdxlIurX24U?si=kudCnNpx3CmZI2MX
