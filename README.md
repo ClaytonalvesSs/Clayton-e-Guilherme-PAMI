@@ -62,14 +62,21 @@ Bom, o meu problema é que, eu tava fazendo o app, todo certinho, inclusive tá 
 Eu não tenho foto dos códigos, apenas do gradle, então vou mostrar como era ele na versão "normal" e ele após os problemas.
 
 # Na versão normal: 
+
 ![image](https://github.com/ClaytonalvesSs/Clayton-e-Guilherme-PAMI/assets/128047894/bb29eefd-d059-4cd8-9a1e-dd031b67d98e)
 
 # Na versão com erros:
+
 ![image](https://github.com/ClaytonalvesSs/Clayton-e-Guilherme-PAMI/assets/128047894/294b86cd-b23c-4141-b02b-ff9dd46905a3)
 
 # Imagem comprovando o commit acidental:
+
 ![image](https://github.com/ClaytonalvesSs/Clayton-e-Guilherme-PAMI/assets/128047894/e034d479-6077-48df-ab56-35e19c007da6)
 
-# Vide enviado pela minha dupla
+# Video que minha dupla (Evelyn) me enviou no dia 15/09
 Minha dupla Evelyn karina disse que até tinha conseguido resolver em uma tela, só que aparecia outros erros em pastas que a gente nem sabia quais eram, veja o video abaixo: 
+
+https://github.com/ClaytonalvesSs/Clayton-e-Guilherme-PAMI/assets/128047894/7dec654b-c017-4484-a56a-78063323789e
+
+Literalmente não da para programar, por conta de que os codigos estão todos alterados, até a prévia das activitys não estão sendo exibidas, neste exato momento, estou refazendo em outro repositório para ter o app totalmente funconal.
 
