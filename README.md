@@ -32,7 +32,7 @@ Após essa intro, iria aparecer uma activity, com um campo de login, que seria N
 Na activity das energias, vamos adicionar um button que vai chamar um menu lateral, no qual ele exibirá algumas opções, como por exemplo, "Sair" que ao clicar,  vai sair do usuário cadastrado, redirecionando de volta para a tela de login e o "Suporte" no qual iria redirecionar para uma nova activity com algumas dúvidas frequentes já respondidas (conjunto de TextViews) sobre energia renovável.
 
 # Ideia que vamos por no lugar do menu
-Adicionar um Button que levará a activity suporte, no qual terá 5 button que levará a 5 sites (cada um falando sobre um tipo de energia), em cada activity das energias, terá um button levando a uma localização, exemplo, na activity da energia solar, terá um button que mostrará uma localização que tem esse tipo de energia, e adicionaremos um button que levará a um e-mail caso queira mandar algo para nós.
+Adicionar um Button que levará a activity suporte, no qual terá 6 buttons, um que fará uma busca sobre "O que são Pokemons?" e os outros 5 que levarão a 5 sites (cada um falando sobre um tipo de energia), em cada activity das energias, terá um button levando a uma localização, exemplo, na activity da energia solar, terá um button que mostrará uma localização que tem esse tipo de energia.
 
 Atualização:
 Adicionamos a imagem do Diagrama de Classes e sua explicação logo abaixo:
